@@ -8,7 +8,7 @@ socialImage: ""
 ---
 I like reading. A lot.
 
-Mostly I read journal articles. They revolve about International Relations. They involve time, inclusion (and alienation), and emotions. All relevant everywhere, every time.
+Mostly I read journal articles. They revolve around International Relations. They involve time, inclusion (and alienation), and emotions. All relevant everywhere, every time.
 
 I *used to* read fiction a lot (I grew up with *Harry Potter* and finished growing up with John Grisham). They have shaped how I think about the world; they have taught me how to feel about it, in it.
 
