@@ -11,9 +11,9 @@
       "external": true
     },
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
+      "external": true,
+      "text": "Twitter",
+      "url": "twitter.com/KvnSes"
     }
   ]
 }
