@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About me
+title: All right, about this blog…
 metaDesc: ""
 postsHeading: Weblog entries
 archiveButtonText: See more?
