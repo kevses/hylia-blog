@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Sambutan Lebaran 2020: Rasionalitas, Universalitas, dan Kekerasan oleh
   Kita pada Kita"
-date: 2020-05-25T13:09:42.765Z
+date: 2020-05-25T15:07:17.168Z
 tags:
   - personal
 ---
