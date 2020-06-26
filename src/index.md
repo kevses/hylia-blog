@@ -1,17 +1,13 @@
 ---
 layout: home
-title: All right, about this blog…
+title: Kevin, Talked into Existence
 metaDesc: ""
 postsHeading: Weblog entries
 archiveButtonText: See more?
 socialImage: ""
 ---
-I like reading. A lot.
+I love reading. It's – I don't know – constitutive of my moral compass. This weblog is a story of my life (hence, my reading journey). I also write another weblog, a quote blog, really, [here](https://qblog.kevses.com/).
 
-Mostly I read journal articles. They revolve around International Relations. They involve time, inclusion (and alienation), and emotions. Chiefly irrelevant to daily life; I tweak a lot of my reading to add to my understanding on life. This weblog is that journey.
+Apart from writing, I'm studying for my master's degree. This weblog is a getaway from that reality. (But not really a getaway since I run from it while *bringing* it.)
 
-I *used to* read fiction a lot (I grew up with *Harry Potter* and finished growing up with John Grisham). They have shaped how I think about the world; they have taught me how to feel about it, in it.
-
-And this is my weblog, created to contain and channel my thoughts and feelings. Sometimes I write serious stuff (about time, inclusion, and emotions), sometimes less serious (also about time, inclusion, and emotions).
-
-Bear with me. 🐻
+Enjoy.
