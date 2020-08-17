@@ -2,11 +2,11 @@
 layout: layouts/post.njk
 title: "Hey-Yo, Tuition Check (Or: A Call for Moderation towards the Case
   against Tuition)"
-metaTitle: Penurunan Uang Kuliah Argumen Kontra
-metaDesc: Uang kuliah di masa pandemi harus turun karena rakyat mengalami
-  kesulitan keuangan, tetapi kampus juga mengalami kesulitan keuangan, sehingga
-  yang perlu masuk ke dalam permasalahan ini untuk menjembatani jurang tersebut
-  adalah pemerintah.
+metaTitle: "Hey-Yo, Tuition Check (Or: A Call for Moderation towards the Case
+  against Tuition)"
+metaDesc: "Household income is violently reduced in this pandemic so that calls
+  for tuition fee reduction is understandable. However, it is urgent that we see
+  the tuition problem comprehensively. "
 date: 2020-08-17T05:39:17.455Z
 tags:
   - personal
@@ -19,11 +19,11 @@ The endgame is always the same: reduce my tuition fee. “I have been impacted b
 
 Now let’s disinfect the facts from sentiments, shall we? (Although I have indicated [somewhere](https://qblog.kevses.com/post/619345408899104768/the-ethic-of-self-restraint-which-sought-to) that emotions are good vehicle for social change, we must know the facts on which we pin our emotions so that we are not clinging to some useless anger – or worse still: some *misappropriated* anger. The wisdom of the crowd is an inch away from the rule of the mob.) First, the biggest spending which a higher education institution allocates is its workforce, including (but of course not limited to) the lecturers. It is indicative, then, that if you are still enjoying lectures, you are still enjoying the majority of the university’s facility. Of course, the buildings, the chairs, and other things are not tangible at the moment, but they are not constitutive of the majority of its spending on facilities.
 
-To put it further into perspective (which comes to our second point), we need to distinguish university types by the source of their income. To put private universities on the same threshold as public universities is an absurd idea. Public universities are heavily funded by taxpayers’ money (in addition to their business entities owned and run by PTN-BH). The case for a tuition fee cut in this case, therefore, is whether to appropriate taxpayers’ money accordingly. In other words, a nationwide tuition fee “amnesty” for public universities is, to a significant extent, politics.
+To put it further into perspective (which comes to our second point), we need to distinguish university types by the source of their income. To put private universities on the same threshold as public universities is an absurd idea. Public universities are heavily funded by taxpayers’ money (in addition to their business entities owned and run by PTN-BH). The case for a tuition cut in this case, therefore, is whether to appropriate taxpayers’ money accordingly. In other words, a nationwide tuition “amnesty” for public universities is, to a significant extent, politics.
 
 Private universities do not enjoy the same safety net. Most of them (and when I say ‘most’, I don’t mean big private universities like those with flower names as building names) depend heavily on tuition fee. This is especially true if the university in question has a very narrow profit margin. Cutting down on fees is a financial suicide. I cannot imagine that the closure of the university is a better solution than the continuance of its existence coupled with unchanging tuition fee.
 
-Third, because we really like to put the blame on someone except ourselves, we need to talk about it. Who is to blame? When we think of the first reason, it is bordering to impertinence if we reduce lecturers’ payroll in exchange for your reduced tuition fee. Do we sacrifice our lecturers? Have we thought about the human resource repercussions if we do that? No, but we must put things into perspective.
+Third, because we really like to put the blame on someone except ourselves, we need to talk about it. Who is to blame? When we think of the first reason, it is bordering to impertinence if we reduce lecturers’ payroll in exchange for your reduced tuition. Do we sacrifice our lecturers? Have we thought about the human resource repercussions if we do that? No, but we must put things into perspective.
 
 We are talking about significant facility use reduction and it is used as a justification for the campaign. I think this is already covered in previous paragraphs about the impertinence and threat of wage reduction. Now we are talking about *other* facilities: electricity and laboratories, among other things. But electricity is an insignificant fraction of total cost, so it will automatically become an unfounded case. In fact, electricity cost, though not burdened to the university, is up because the workers are not situated in a common space (which can share electricity for numerous tasks), not to mention the increased average electricity cost for producing a lecture material for one week for one subject due to a radical shift in the delivery method (from relatively costless in-person presentation to costly video production).
 
@@ -33,6 +33,6 @@ Now we understand that costs have gone up during the pandemic despite your missi
 
 Talking about this, I realise, is not solving the problem about your family’s sudden loss of income and about the university’s constant tuition fee. Here, we need the government, and I think we need to emphasise our blame on the government. When there are a sudden loss of income and the uncompromisable need for income on the university’s part, there exists a gap. Both parties are not equipped to close the gap because they lack resources. But we have a government and one of its jobs is to allocate resources. When you cannot pay the tuition fee and the university cannot reduce the demand, the government is to step up and pay for it to ensure continuance. This should be applied at the national level. This measure, I must say, is already in motion through Kartu Indonesia Pintar and UKT for private universities with varying degrees of application, although I am unaware of the extent to which both programs run.
 
-But, of course, the temptation to bandwagon is irresistible. Who can resist the systemic reduction of tuition fee for all people? I am in for it, but we need to plan in advance regarding the costs, because the costs do not disappear. We are just finding someone to pay for them. If we ask small private universities to stop taking fees from the students at once without any compensation from anyone, it will systematically erase the entire low-cost higher education industry. The ones who can fill the gap are public universities, but they cannot keep up with the demand for affordable higher education. The ones who will remain in the higher education industry are the likes of the university with flower names and of that who is infamous for absorbing papa’s money.
+But, of course, the temptation to bandwagon is irresistible. Who can resist the systemic reduction of tuition for all people? I am in for it, but we need to plan in advance regarding the costs, because the costs do not disappear. We are just finding someone to pay for them. If we ask small private universities to stop taking fees from the students at once without any compensation from anyone, it will systematically erase the entire low-cost higher education industry. The ones who can fill the gap are public universities, but they cannot keep up with the demand for affordable higher education. The ones who will remain in the higher education industry are the likes of the university with flower names and of that who is infamous for absorbing papa’s money.
 
 May God protect us all in this pandemic.
