@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Kevin, Talked into Existence
+title: Kevin, in Short
 metaDesc: ""
 postsHeading: Weblog entries
 archiveButtonText: See more?
 socialImage: ""
 ---
-I love reading. It's – I don't know – constitutive of my moral compass. This weblog is a story of my life (hence, my reading journey). I also write another weblog, a quote blog, really, [here](https://qblog.kevses.com/).
+My name is Kevin. I am a rookie lecturer at IISIP Jakarta. Every word here is not affiliated to it; you know the drill. I read International Relations for a living. I have to read and write things I don't like from time to time, but it's very rewarding when I get to talk about things I enjoy: social agency (postcolonialism, emancipation, and the like).
 
-Apart from writing, I'm studying for my master's degree. This weblog is a getaway from that reality. (But not really a getaway since I run from it while *bringing* it.)
+I'm also writing my master's thesis right now at Universitas Indonesia. It's a hard thing.
 
-Enjoy.
+This blog is my getaway. Enjoy!
